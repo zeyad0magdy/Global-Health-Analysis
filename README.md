@@ -12,13 +12,13 @@ This dashboard analyzes a decade of global health data to reveal a clear global 
 ![Page 1 Preview](https://github.com/zeyad0magdy/Global-Health-Analysis/blob/main/6.1.png?raw=true)
 
 ### Page 2: Life Expectancy & Causal Factors
-![Page 2 Preview]((https://github.com/zeyad0magdy/Global-Health-Analysis/blob/main/6.2.png?raw=true))
+![Page 2 Preview](https://github.com/zeyad0magdy/Global-Health-Analysis/blob/main/6.2.png?raw=true)
 
 ### Page 3: Mortality Deep Dive
-![Page 3 Preview]((https://github.com/zeyad0magdy/Global-Health-Analysis/blob/main/6.3.png?raw=true))
+![Page 3 Preview](https://github.com/zeyad0magdy/Global-Health-Analysis/blob/main/6.3.png?raw=true)
 
 ### Page 4: Executive KPI Summary
-![Page 4 Preview]((https://github.com/zeyad0magdy/Global-Health-Analysis/blob/main/6.4.png?raw=true))
+![Page 4 Preview](https://github.com/zeyad0magdy/Global-Health-Analysis/blob/main/6.4.png?raw=true)
 
 ---
 
